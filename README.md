@@ -162,4 +162,4 @@ if __name__ == "__main__":
     dcll.display()
     
 # 執行結果
-<img width="1502" height="286" alt="執行結果" src="" />
+<img width="1502" height="286" alt="執行結果" src="result.png" />
